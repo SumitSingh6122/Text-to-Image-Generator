@@ -24,13 +24,4 @@ To get started with the Text-to-Image Generator Tool, follow these steps:
 
 5. **Feedback**: Provide feedback on the generated images to help improve the model's performance over time.
 
-## Usage
 
-Here's how you can use the Text-to-Image Generator Tool:
-
-```bash
-# Example command for generating an image from a textual description
-python generate_image.py --text "A serene landscape with a sunset over a calm lake."
-
-# Example command for generating an image from a voice prompt
-python generate_image.py --voice "path/to/voice_prompt.wav"
